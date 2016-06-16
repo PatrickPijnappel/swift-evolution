@@ -10,7 +10,7 @@
 The Swift API Guidelines standardizes non-mutating method forms on verbs ending in -ed/-ing (or nouns). However, a few non-mutating forms have been kept as "Terms of Art":
 `map`, `flatMap`, `filter`, `reduce`, `dropFirst` and `dropLast`. This proposal proposes to bring these in line with all other non-mutating forms (e.g. `filter => filtered`).
 
-Swift-evolution threads: [Source](http://news.gmane.org/find-root.php?group=gmane.comp.lang.swift.evolution&article=20783)
+Swift-evolution threads: [Source](http://news.gmane.org/find-root.php?group=gmane.comp.lang.swift.evolution&article=20783), [Draft](http://news.gmane.org/find-root.php?group=gmane.comp.lang.swift.evolution&article=20864)
 
 ## Motivation
 
